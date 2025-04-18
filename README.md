@@ -46,7 +46,7 @@ How to Use
 
 1. Clone this repository:
 
-git clone https://github.com/NamrataGadhave414/OpenCart-Test-Cases/Test_Cases_Awesomeqa.com.git
+git clone https://github.com/NamrataGadhave414/OpenCart-Test-Cases
 
 
 2. Open the test-cases folder to access the test case documents.
